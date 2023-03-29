@@ -1,12 +1,10 @@
-### Hi there 👋
-
 ### Hi there, I'm Oscar and I'm a beginner web-developer learning Ruby and JS. I'm passionate about building dynamic and responsive web applications that solve real-world problems.
 
-# I'm currently focusing on mastering the fundamentals of web development such as HTML, CSS, JavaScript and Ruby. I'm also exploring popular web frameworks such as Ruby on Rails to build more complex and scalable applications.
+I'm currently focusing on mastering the fundamentals of web development such as HTML, CSS, JavaScript and Ruby. I'm also exploring popular web frameworks such as Ruby on Rails to build more complex and scalable applications.
 
-# I'm constantly seeking to learn and grow as a developer.
+I'm constantly seeking to learn and grow as a developer.
 
-# Feel free to check out my repositories and connect with me on my socials. Let's learn and build together!
+Feel free to check out my repositories and connect with me on my socials. Let's learn and build together!
 
 <!--
 **oscposc/oscposc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
