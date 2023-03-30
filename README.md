@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hi there, I'm Oscar!<br><br>I'm a beginner web-developer learning Ruby and JS. I'm passionate about building dynamic and responsive web applications that solve real-world problems.<br>I'm currently focusing on mastering the fundamentals of web development such as HTML, CSS, JavaScript and Ruby. I'm also exploring popular web frameworks such as Ruby on Rails to build more complex and scalable applications.<br><br>I'm constantly seeking to learn and grow as a developer.<br><br>Feel free to check out my repositories and connect with me on my socials. Let's learn and build together!
+
+## Hi there, I'm Oscar!
+
+# I'm a beginner web-developer learning Ruby and JS. I'm passionate about building dynamic and responsive web applications that solve real-world problems.<br>I'm currently focusing on mastering the fundamentals of web development such as HTML, CSS, JavaScript and Ruby. I'm also exploring popular web frameworks such as Ruby on Rails to build more complex and scalable applications.<br><br>I'm constantly seeking to learn and grow as a developer.<br><br>Feel free to check out my repositories and connect with me on my socials. Let's learn and build together!
 
 
 ## 🌐 Socials:
