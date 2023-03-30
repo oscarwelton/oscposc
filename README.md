@@ -1,10 +1,14 @@
 
-## Hi there, I'm Oscar!
+# Hi there, I'm Oscar!     [![](https://visitcount.itsvg.in/api?id=oscposc&icon=5&color=3)](https://visitcount.itsvg.in)
 
-# I'm a beginner web-developer learning Ruby and JS. I'm passionate about building dynamic and responsive web applications that solve real-world problems.<br>I'm currently focusing on mastering the fundamentals of web development such as HTML, CSS, JavaScript and Ruby. I'm also exploring popular web frameworks such as Ruby on Rails to build more complex and scalable applications.<br><br>I'm constantly seeking to learn and grow as a developer.<br><br>Feel free to check out my repositories and connect with me on my socials. Let's learn and build together!
+I'm a beginner web-developer learning Ruby and JS. I'm passionate about building dynamic and responsive web applications that solve real-world problems.
 
+I'm currently focusing on mastering the fundamentals of web development such as HTML, CSS, JavaScript and Ruby. I'm also exploring popular web frameworks such as Ruby on Rails to build more complex and scalable applications.
 
-## 🌐 Socials:
+I'm constantly seeking to learn and grow as a developer.
+
+Feel free to check out my repositories and connect with me on my socials. Let's learn and build together!
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/oscarwelton) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-welton-293961255) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@oscarwelton) 
 
 # 💻 Tech Stack:
@@ -14,7 +18,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oscposc&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oscposc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=oscposc&icon=5&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
