@@ -3,7 +3,7 @@
 
 I'm a beginner web-developer learning Ruby and JS. I'm passionate about building dynamic and responsive web applications that solve real-world problems.
 
-I'm currently focusing on mastering the fundamentals of web development such as HTML, CSS, JavaScript and Ruby. I'm also exploring popular web frameworks such as Ruby on Rails to build more complex and scalable applications.
+I'm currently focusing on mastering the fundamentals of web development such as HTML, CSS, JavaScript and Ruby. I'm also exploring the popular web framework Ruby on Rails to build more complex and scalable applications.
 
 I'm constantly seeking to learn and grow as a developer.
 
